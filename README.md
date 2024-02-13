@@ -2,7 +2,7 @@
 Personal oneline, minimal, keyboard-centered Firefox CSS theme.
 
 ## Screenshots
-![screenshot2](ass/screenshot2.png)
+![screenshot1](ass/screenshot1.png)
 
 ## Setup and installation
 1. Clone this repository or download the `userChrome.css` file to your local machine
