@@ -43,8 +43,15 @@
  * #star-button-box,
 */
 #tracking-protection-icon-container,
+#reader-mode-button,
 #translations-button {
   display: none !important
+}
+
+/* Hide Extension Name in the identity area */
+#identity-box.extensionPage #identity-icon-label {
+  visibility: collapse !important;
+  transition: visibility 2s;
 }
 
 /* Panel/menu position */
