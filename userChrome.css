@@ -128,8 +128,4 @@
     background: #0000 !important;
 }
 
-/* urlbar results color -- this is kinda broken */
-.urlbarView-row[selected] .urlbarView-row-inner {
-  background-color: #81A1CA !important;
-  color: #1D1D1D !important;
-}
+
