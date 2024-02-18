@@ -37,11 +37,12 @@
 }
 
 /* Remove icons from urlbar */ 
-/* I actually want this ones
- * #identity-icon-box,
- * #identity-permission-box,
+/* #identity-permission-box,
  * #star-button-box,
 */
+#alttabs-button,
+#identity-icon-box,
+#picture-in-picture-button,
 #tracking-protection-icon-container,
 #reader-mode-button,
 #translations-button {
@@ -50,8 +51,7 @@
 
 /* Hide Extension Name in the identity area */
 #identity-box.extensionPage #identity-icon-label {
-  visibility: collapse !important;
-  transition: visibility 2s;
+  visibility: collapse !important
 }
 
 /* Panel/menu position */
