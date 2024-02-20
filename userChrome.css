@@ -37,10 +37,10 @@
 }
 
 /* Remove icons from urlbar */ 
-/* #identity-permission-box,
- * #star-button-box,
+/* #identity-permission-box
 */
-#alttabs-button,
+#star-button-box,
+#alltabs-button,
 #identity-icon-box,
 #picture-in-picture-button,
 #tracking-protection-icon-container,
