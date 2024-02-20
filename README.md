@@ -1,5 +1,5 @@
 # firefox CSS
-Personal oneline, minimal, keyboard-centered Firefox CSS theme.
+Simple oneline, minimal, keyboard-centered Firefox CSS theme.
 
 ## Screenshots
 ![screenshot1](ass/screenshot1.png)
